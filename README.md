@@ -1,6 +1,6 @@
 # Gender-Prediction-ML-Project
 
-Click on below Button
+Click on below Link
 
 https://gender-prediction-ml-project-x8jnncabe9nvepfty6dsaj.streamlit.app/
 
